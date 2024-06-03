@@ -15,8 +15,13 @@ Statistics have found that the conversion rate of users watching live broadcasts
 
 ## Data info
 OPTUM_LAB_ID：row number 
+
 CASE：Treatment, if watch live streams
+
 gender：male 1, female 0
+
 age
+
 activedays_per_week： go to online stores weekly days
+
 cv：conversion rate
