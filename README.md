@@ -3,6 +3,11 @@
 
 ## Background
 
+***All background and data are assumptions
+
+
+
+
 
 An e-commerce platform has recently started livestream delivery to improve the overall revenue. 
 
