@@ -25,3 +25,6 @@ age
 activedays_per_week： go to online stores weekly days
 
 cv：conversion rate
+
+
+
